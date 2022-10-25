@@ -1,0 +1,12 @@
+{
+  "name": "onze99",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
